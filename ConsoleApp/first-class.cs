@@ -8,5 +8,9 @@ namespace ConsoleApp
 {
     internal class first_class
     {
+        public void Method(string name)
+        {         
+            Console.WriteLine($"Hello {name}");
+        }
     }
 }
