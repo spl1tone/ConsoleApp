@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World1");
             Console.WriteLine("Hello, World2");
-            Console.WriteLine("Hello, World3");
+            Console.WriteLine("Hello, SomeText");
 
             first_class first_ = new first_class();
 
