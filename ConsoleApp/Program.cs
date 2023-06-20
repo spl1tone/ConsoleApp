@@ -4,14 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World1");
-            Console.WriteLine("Hello, World2");
-            Console.WriteLine("Hello, SomeText");
-
-            first_class first_ = new first_class();
-
-            first_.Method("Vlad");
-
+            Console.WriteLine("Hello, Branch 1");
+            Console.WriteLine("Hello, Branch 2");
+            Console.WriteLine("Hello, Branch again");
         }
     }
 }
